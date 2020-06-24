@@ -24,6 +24,7 @@
 .portrait {
     border-radius: 100px;
     margin-bottom: 20px;
+    max-width: 100vw;
 }
 
 h1 {
