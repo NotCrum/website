@@ -17,6 +17,10 @@
     flex-direction: column;
 }
 
+.image-button {
+    background-color: rgba(0,0,0,0);
+}
+
 .portrait {
     border-radius: 100px;
     margin-bottom: 20px;
