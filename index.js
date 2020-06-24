@@ -1,3 +1,4 @@
 function uwu(){
-    window.alert("if you fuck men")
+    document.querySelector("video").play()
+    alert("if you fuck men")
 }
