@@ -11,6 +11,21 @@
     justify-content: center;
 }
 
+.content {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.portrait {
+    border-radius: 100px;
+    margin-bottom: 20px;
+}
+
 h1 {
     font-family: Arial, Helvetica, sans-serif;
+}
+
+h1:hover {
+    color: #0e855d;
 }
